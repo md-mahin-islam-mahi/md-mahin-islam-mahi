@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋,</h3>
 <h1 align="center">I'm MD. Mahin Islam Mahi</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A frontend web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wd-mahin&label=Profile%20views&color=0e75b6&style=flat" alt="wd-mahin" /> </p>
 
@@ -51,6 +51,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mahin-islam-mahi&show_icons=true&locale=en&layout=compact" alt="wd-mahin" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mahin-islam-mahi&show_icons=true&locale=en&layout=compact" alt="wd-mahin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-mahin-islam-mahi&show_icons=true&locale=en" alt="wd-mahin" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-mahin-islam-mahi&show_icons=true&locale=en" alt="wd-mahin" /></p>
