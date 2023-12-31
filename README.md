@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wd-mahin&label=Profile%20views&color=0e75b6&style=flat" alt="wd-mahin" /> </p>
 
-- 👋 Hello World! I'm [Your Name], a passionate frontend web developer on a journey to become a full-stack wizard.
+- 👋 Hello World! I'm Md Mahin Islam Mahi, a passionate frontend web developer on a journey to become a full-stack wizard.
 
 - 🚀 Currently honing my skills in HTML, CSS, and JavaScript, I love creating seamless and visually appealing user experiences.
 
