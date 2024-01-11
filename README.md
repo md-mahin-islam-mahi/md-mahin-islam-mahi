@@ -4,7 +4,7 @@
 <h1 align="center">I'm MD. Mahin Islam Mahi</h1>
 <h3 align="center">A frontend web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wd-mahin&label=Profile%20views&color=0e75b6&style=flat" alt="wd-mahin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mahin-islam-mahi&label=Profile%20views&color=0e75b6&style=flat" alt="md-mahin-islam-mahi" /> </p>
 
 - 👋 Hello World! I'm Md Mahin Islam Mahi, a passionate frontend web developer on a journey to become a full-stack wizard.
 
